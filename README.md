@@ -371,15 +371,19 @@ docker-compose exec db psql -U agendacero_user -d agendacero_db
 5. Open a Pull Request
 
 ## License
+Copyright (c) 2026 Jorge Eduardo Gallo Zuluaga. All rights reserved.
 
-This project is proprietary software. All rights reserved.
+This project is proprietary software. Unauthorized copying, modification,
+distribution, or use of this software, via any medium, is strictly prohibited
+without the prior written permission of the author.
 
 ## Support
 
 For issues and questions, please contact the development team.
 
 ## Author
+Jorge Eduardo Gallo Zuluaga 
+Full Stack Developer  
 
-- Jorge Eduardo Gallo Zuluaga - Full Stack Developer
 - GitHub: https://github.com/JorgeEGZ
 - Email: jorgegz1998@gmail.com
